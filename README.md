@@ -1,0 +1,3 @@
+The Hera Pheri Bank project is a fully functional Banking Management System (BMS) built using Java Swing for the graphical user interface and MySQL as the backend database. The system simulates core banking operations that a real-world bank provides to its customers, implemented as a standalone desktop application.
+The application provides a complete banking experience including account creation, secure login, deposit and withdrawal transactions, fund transfers between accounts, transaction history (mini statement), profile management, password management, and a dedicated admin panel for bank staff.
+[HeraPheriBank_ProjectReport.docx](https://github.com/user-attachments/files/27478570/HeraPheriBank_ProjectReport.docx)
